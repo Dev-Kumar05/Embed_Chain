@@ -222,5 +222,4 @@ To enhance scalability in the current system, I recommend the following architec
 !["Pipeline"](./resources/static/scaleable_system_architecture.png)
 
 
-#   E m b e d _ C h a i n  
- 
+# Embed_Chain
